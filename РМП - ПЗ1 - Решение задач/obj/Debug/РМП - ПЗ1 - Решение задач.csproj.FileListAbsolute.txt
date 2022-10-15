@@ -1,0 +1,26 @@
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\bin\Debug\РМП - ПЗ1 - Решение задач.exe.config
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\bin\Debug\РМП - ПЗ1 - Решение задач.exe
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\bin\Debug\РМП - ПЗ1 - Решение задач.pdb
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.csproj.AssemblyReference.cache
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.csproj.SuggestedBindingRedirects.cache
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\MainWindow.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task1.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task2.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\App.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач_MarkupCompile.cache
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач_MarkupCompile.lref
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\MainWindow.baml
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task1.baml
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task2.baml
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.g.resources
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП___ПЗ1___Решение_задач.Properties.Resources.resources
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.csproj.GenerateResource.cache
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.csproj.CoreCompileInputs.cache
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.exe
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\РМП - ПЗ1 - Решение задач.pdb
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task3.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task4.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task5.g.cs
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task3.baml
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task4.baml
+D:\Колледж 1\Проекты Visual Studio\РМП - ПЗ1 - Решение задач\РМП - ПЗ1 - Решение задач\obj\Debug\Task5.baml
